@@ -5,7 +5,7 @@ This project visualizes 5G network coverage using Flask and HTML.
   ```bash
    git clone https://github.com/ankitgarg2727/5G-Visualization.git
    ```
-2)Change to the directory where the app.py file is located:
+2) Change to the directory where the app.py file is located:
   ```bash
    cd /5G-Visualization/celltowers
    ```
